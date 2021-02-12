@@ -1,6 +1,6 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name Carson Irons 
 
 
 //write the Number class
